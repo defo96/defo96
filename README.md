@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ZEPOH
+# defo96
 
-![La banniere du profil github de Zepoh]()
+<!-- ![La banniere du profil github de Zepoh]()-->
 
 Hi, call me  **MABOU DEFO**   
 I’m a front end developer an data scientist learner base in Africa   
