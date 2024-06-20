@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # defo96
 
-<!-- ![La banniere du profil github de Zepoh]()-->
+![La banniere du profil github de Zepoh](https://github.com/defo96/defo96/blob/main/Banniere_mabou_github.png)
 
 Hi, call me  **MABOU DEFO**   
 I’m a front end developer an data scientist learner base in Africa   
