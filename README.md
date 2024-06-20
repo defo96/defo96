@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 Hi, call me  **MABOU DEFO**   
 I’m a front end developer an data scientist learner base in Africa   
-I’m currently learning JavaScript  
+I’m currently learning JavaScript and python  
 
 ## dev front end and data science
 
