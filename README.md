@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# ZEPOH
+
+![La banniere du profil github de Zepoh]()
+
+Hi, call me  **MABOU DEFO**   
+I’m a front end developer an data scientist learner base in Africa   
+I’m currently learning JavaScript  
+
+## dev front end and data science
+
+ <h1 style="width: 100%; text-align: center;">  MABOU DEFO </h1>
+
+### How to reach me
++ [telegram](https://t.me/mabou)  
++ [mail](sommetdefo3@gmail.com)
+
+<!---
+Zepoh/Zepoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
